@@ -10,7 +10,7 @@ It performs basic arithmetic operations including Addition, Subtraction, Multipl
 
 📸 Screenshot
 Below is the working interface of the Calculator 👇  
-<img src="calculator.png" alt="Calculator Screenshot" width="350">
+![Calculator Screenshot](https://github.com/varshita-tawade/Calculator-html-css-javascript/blob/234ead2fc8bb3c09d50f9a06d577178ef0b7e067/calculatorUI.png)
 
 🔢 Working
 The calculator supports:
