@@ -29,7 +29,7 @@ Input
 ![Calculator Screenshot](https://github.com/varshita-tawade/Calculator-html-css-javascript/blob/eb09c3ef66169ce387ad8fc67ecd41b611a97306/input.png)
 
 Output
-
+![Calculator Screenshot](https://github.com/varshita-tawade/Calculator-html-css-javascript/blob/1a713b213121b7ac5ff07938a800ffb6b0894133/output.png)
 
 💡 Future Improvements 
 Dark / Light mode
