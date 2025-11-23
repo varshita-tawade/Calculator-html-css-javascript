@@ -26,10 +26,10 @@ Result (=)
 
 Working Example
 Input
-![Calculator Screenshot](input.png)
+
 
 Output
-![Calculator Screenshot](output.png)
+
 
 💡 Future Improvements 
 Dark / Light mode
