@@ -26,7 +26,7 @@ Result (=)
 
 Working Example
 Input
-
+![Calculator Screenshot](https://github.com/varshita-tawade/Calculator-html-css-javascript/blob/eb09c3ef66169ce387ad8fc67ecd41b611a97306/input.png)
 
 Output
 
